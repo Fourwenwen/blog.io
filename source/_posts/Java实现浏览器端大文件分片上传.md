@@ -1,4 +1,8 @@
-# Breakpoint-http
+---
+title: Java实现浏览器端大文件分片上传
+date: 2017-07-01 11:29:50
+tags: Java Spring 文件上传 大文件上传 break-point 分片上传
+---
 
 ![wen icon](https://fourwenwen.github.io/fww/image/logo100_100.jpg)
 

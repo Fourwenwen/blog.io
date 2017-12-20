@@ -1,4 +1,8 @@
-# 基于Spring的一致性哈希redis缓存
+---
+title: 基于Spring的一致性哈希redis缓存
+date: 2017-08-02 23:33:25
+tags: Spring redis 一致性哈希 一致性哈希redis 缓存 github
+---
 
 ![wen icon](https://fourwenwen.github.io/fww/image/logo100_100.jpg)
 
